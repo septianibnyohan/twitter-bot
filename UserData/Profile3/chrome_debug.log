@@ -1,0 +1,14 @@
+[274197:274197:0116/194627.563813:WARNING:chrome_main_delegate.cc(660)] This is Chrome version 119.0.6045.123 (not a warning)
+[274197:274197:0116/194627.759823:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[274197:274197:0116/194627.759868:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[274197:274197:0116/194627.853730:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[274241:274241:0116/194627.981733:WARNING:sandbox_linux.cc(400)] InitializeSandbox() called with multiple threads in process gpu-process.
+[274197:274238:0116/194627.984159:WARNING:backend_impl.cc(1759)] Destroying invalid entry.
+[274323:16:0116/194629.002773:INFO:peer_connection_dependency_factory.cc(669)] Running WebRTC with a combined Network and Worker thread.
+[274242:274261:0116/194629.735707:WARNING:spdy_session.cc(2966)] Received HEADERS for invalid stream 21
+[274242:274261:0116/194629.739112:WARNING:spdy_session.cc(2966)] Received HEADERS for invalid stream 23
+[274242:274261:0116/194629.745633:WARNING:spdy_session.cc(2966)] Received HEADERS for invalid stream 25
+[274323:16:0116/194630.181941:INFO:peer_connection_dependency_factory.cc(669)] Running WebRTC with a combined Network and Worker thread.
+[274242:274262:0116/194634.246049:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[274242:274262:0116/194634.246140:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[274197:274197:0116/194634.290194:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

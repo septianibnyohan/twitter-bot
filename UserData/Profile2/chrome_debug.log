@@ -1,0 +1,10 @@
+[273942:273942:0116/194620.008322:WARNING:chrome_main_delegate.cc(660)] This is Chrome version 119.0.6045.123 (not a warning)
+[273942:273942:0116/194620.266291:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[273942:273942:0116/194620.266344:INFO:policy_logger.cc(145)] :components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[273942:273942:0116/194620.392242:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[273991:273991:0116/194620.539394:WARNING:sandbox_linux.cc(400)] InitializeSandbox() called with multiple threads in process gpu-process.
+[274015:16:0116/194621.766464:INFO:peer_connection_dependency_factory.cc(669)] Running WebRTC with a combined Network and Worker thread.
+[274015:16:0116/194622.869579:INFO:peer_connection_dependency_factory.cc(669)] Running WebRTC with a combined Network and Worker thread.
+[273992:274010:0116/194626.854131:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[273992:274010:0116/194626.854293:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:246 to client_task_runner_.
+[273942:273942:0116/194626.897485:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
